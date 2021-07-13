@@ -1,0 +1,23 @@
+.gallery {
+    display: block;
+    padding:0 ;
+    margin: 0;
+    list-style-type: none;
+}
+// .gallery li {display: inline-block;}
+
+ul.gallery {
+    display: block;position: relative;
+}
+
+ul.gallery li {
+    display: inline-block; position: relative;
+}
+
+
+
+.gallery img {
+    display: block;
+    max-width:  100%;
+}
+
